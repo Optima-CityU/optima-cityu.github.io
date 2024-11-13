@@ -34,8 +34,9 @@ header:
     blox: "navbar"
     show_search: true
     show_theme_chooser: true
-    logo:
-      text: "Optima Group"
+    logo: 
+      filename: "icons/optima-logo-temp.png"
+      # text: "Optima Group"
 
 # Site footer
 footer:
