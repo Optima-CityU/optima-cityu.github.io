@@ -45,12 +45,7 @@ sections:
         
   - block: member-card
     content:
-      title: <strong>Postgraduate Students</strong>
-      # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
-
-  - block: member-card
-    content:
-      title: PhD Students
+      title: <strong>Students</strong>
       # Upload project images to your `assets/media/` folder and reference the filename in the `image` option
       items:
         - title: Dake BU
@@ -58,9 +53,11 @@ sections:
           image: members/dakebu.jpg
           url: https://scholar.google.com/citations?user=mWrnNqsAAAAJ
         - title: Ji CHENG
+          description: <strong>PhD Student</strong>
           image: members/jicheng.jpg
           url: https://scholar.google.com/citations?hl=en&user=5CO3AVcAAAAJ
         - title: Jingjing CHEN
+          description: <strong>PhD Student</strong>
           image: members/jingjingchen.jpg
           url: https://scholar.google.com/citations?user=E_UuWUEAAAAJ
         - title: Siyuan CHEN 陈思源
@@ -68,6 +65,7 @@ sections:
           image: members/siyuanchen.jpg
           url: https://github.com/c4yg70
         - title: Cheng GONG 龚成
+          description: <strong>PhD Student</strong>
           image: members/chenggong.jpg
           url: https://scholar.google.com/citations?user=d_wVFg0AAAAJ&hl=zh-CN&oi=ao
         - title: Ping GUO
@@ -75,39 +73,50 @@ sections:
           image: members/pingguo.jpg
           url: https://guo-ping.com/
         - title: Qinglong HU
+          description: <strong>PhD Student</strong>
           image: members/qinglonghu.jpg
           url: https://orcid.org/0000-0002-6862-8705
         - title: Song LAI
+          description: <strong>PhD Student</strong>
           image: members/songlai.jpg
           url: https://laisong-22004009.github.io/
         - title: Weiduo LIAO
+          description: <strong>PhD Student</strong>
           image: members/weiduoliao.jpg
           url: https://liaoweiduo.notion.site/Weiduo-LIAO-7a8d31efc24540a080a5b02de053904e?pvs=4
         - title: Yilu LIU 刘一鹭
+          description: <strong>PhD Student</strong>
           image: members/yiluliu.jpg
           url: https://scholar.google.com/citations?user=7414KGcpDPAC
         - title: Chengyu LU
+          description: <strong>PhD Student</strong>
           image: members/chengyulu.jpg
           url: https://scholar.google.com/citations?user=YqugGsQAAAAJ
         - title: Shenhuan LYU
+          description: <strong>PhD Student</strong>
           image: members/shenhuanlyu.jpg
           url: https://lyushenhuan.github.io/
         - title: Yuxiong QING 秦渝雄
+          description: <strong>PhD Student</strong>
           image: members/qinyuxiong.png
         - title: Bo XUE
           description: <strong>PhD Student</strong>
           image: members/boxue.jpg
           url: https://xueb1996.github.io/
         - title: Zhiyuan YANG 杨致远
+          description: <strong>PhD Student</strong>
           image: members/zhiyuanyang.jpg
           url: https://www.crazyang.com
         - title: Shunyu YAO
+          description: <strong>PhD Student</strong>
           image: members/ShunyuYao.jpg
           url: https://scholar.google.com/citations?user=ksM-S0wAAAAJ&hl=en&oi=ao
         - title: Yiming YAO
+          description: <strong>PhD Student</strong>
           image: members/yimingyao.jpg
           url: https://scholar.google.com/citations?user=c8qCgy0AAAAJ
         - title: Xiaoyuan ZHANG
+          description: <strong>PhD Student</strong>
           image: members/xiaoyuanzhang.png
           url: https://scholar.google.com/citations?user=KQj18L8AAAAJ
         - title: Xu ZHANG 张煦
@@ -118,16 +127,12 @@ sections:
           description: <strong>PhD Student</strong>
           image: members/kefengzheng.jpg
           url: https://www.researchgate.net/profile/Kefeng-Zheng
-  
-  - block: member-card
-    content:
-      title: MPhile/Master Students
-      items: 
         - title: Rui ZHANG 張睿
-          description: MPhil Student (2024-?)
+          description: <strong>MPhil Student</strong> (2024-?)
           image: members/ruizhang.jpeg
           url: https://RayZhhh.github.io
         - title: Rui SUN
+          description: <strong>MPhil Student</strong>
           image: members/ruisun.jpg
           url: https://scholar.google.com/citations?user=6brFWBsAAAAJ&hl=zh-CN&oi=ao
   
