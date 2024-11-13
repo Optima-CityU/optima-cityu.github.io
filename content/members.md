@@ -33,13 +33,15 @@ sections:
           image: members/XiLin.jpg
           url: https://xi-l.github.io
         - title: Fei LIU
-          description: <strong>PhD Student</strong>
+          description: <strong>Postdoctoral Researcher</strong>
           image: members/feiliu.jpg
           url: https://feiliu36.github.io/
         - title: Zidong Wang
+          description: <strong>Postdoctoral Researcher</strong>
           image: members/zidongwang.jpg
           url: https://scholar.google.com/citations?user=t1jXGwkAAAAJ&hl=en&oi=sra
         - title: Liang ZHAO 赵亮
+          description: <strong>Postdoctoral Researcher</strong>
           image: members/liangzhao.png
           url: https://liazhao5.github.io
         
@@ -57,7 +59,7 @@ sections:
           image: members/jicheng.jpg
           url: https://scholar.google.com/citations?hl=en&user=5CO3AVcAAAAJ
         - title: Jingjing CHEN
-          description: <strong>PhD Student</strong>
+          description: <strong>PhD Student</strong> 
           image: members/jingjingchen.jpg
           url: https://scholar.google.com/citations?user=E_UuWUEAAAAJ
         - title: Siyuan CHEN 陈思源
@@ -97,7 +99,7 @@ sections:
           image: members/shenhuanlyu.jpg
           url: https://lyushenhuan.github.io/
         - title: Yuxiong QING 秦渝雄
-          description: <strong>PhD Student</strong>
+          description: <strong>PhD Student</strong> (2024-?)
           image: members/qinyuxiong.png
         - title: Bo XUE
           description: <strong>PhD Student</strong>
@@ -124,7 +126,7 @@ sections:
           image: members/xuzhang.jpg
           url: https://github.com/ZhangXu0963
         - title: Kefeng ZHENG
-          description: <strong>PhD Student</strong>
+          description: <strong>PhD Student</strong> (2024-?)
           image: members/kefengzheng.jpg
           url: https://www.researchgate.net/profile/Kefeng-Zheng
         - title: Rui ZHANG 張睿
@@ -135,10 +137,6 @@ sections:
           description: <strong>MPhil Student</strong>
           image: members/ruisun.jpg
           url: https://scholar.google.com/citations?user=6brFWBsAAAAJ&hl=zh-CN&oi=ao
-  
-  - block: member-card
-    content:
-      title: Bachelor Students
 
   - block: member-card
     content:
