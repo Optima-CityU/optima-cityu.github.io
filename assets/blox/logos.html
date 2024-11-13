@@ -19,7 +19,7 @@
     {{end}}
     <div
       class="mx-auto mt-20 grid max-w-max grid-cols-1 place-content-center gap-x-32 gap-y-12 sm:grid-cols-3 md:gap-x-16 lg:gap-x-32">
-      {{ $images := resources.Match (printf "media/%s/*.{svg,png}" $logo_folder) }}
+      {{ $images := resources.Match (printf "media/%s/*.{svg,png,jpg}" $logo_folder) }}
       {{ range $images }}
       {{ $image := . }}
       {{- $isSVG := eq $image.MediaType.SubType "svg" -}}
