@@ -72,14 +72,14 @@ sections:
     id: Selected Researches
     content:
       items:
-        - title: Multi-objective Optimization
+        - title: Few for Many
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           # Upload image to `assets/media/` and reference the filename here
           image: selected_researches/conference-headway-F2KRf_QfCqw.jpg
           button:
             text: Learn More
             url: selected_researches/1
-        - title: Automatic Algorithm Design
+        - title: Automatic Algorithm Design with LLMs
           text: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
           # Upload image to `assets/media/` and reference the filename here
           image: selected_researches/conference-headway-F2KRf_QfCqw.jpg
